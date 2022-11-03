@@ -1,0 +1,15 @@
+
+
+
+
+.sidebar-content{
+     border:1px solid lightblue;
+     display: inline-block;
+     padding:30px;
+     margin: 0px;
+
+     max-width: 100%;
+     vertical-align: bottom;
+     position: relative;
+     
+ }
